@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pixori-plus.git/static/css/main.a4cfeaa8.chunk.css",
+    "main.js": "/pixori-plus.git/static/js/main.8ce2944b.chunk.js",
+    "main.js.map": "/pixori-plus.git/static/js/main.8ce2944b.chunk.js.map",
+    "runtime-main.js": "/pixori-plus.git/static/js/runtime-main.8a5a658b.js",
+    "runtime-main.js.map": "/pixori-plus.git/static/js/runtime-main.8a5a658b.js.map",
+    "static/js/2.161a8b10.chunk.js": "/pixori-plus.git/static/js/2.161a8b10.chunk.js",
+    "static/js/2.161a8b10.chunk.js.map": "/pixori-plus.git/static/js/2.161a8b10.chunk.js.map",
+    "index.html": "/pixori-plus.git/index.html",
+    "precache-manifest.89568315e6a182d0a47528646bff5565.js": "/pixori-plus.git/precache-manifest.89568315e6a182d0a47528646bff5565.js",
+    "service-worker.js": "/pixori-plus.git/service-worker.js",
+    "static/css/main.a4cfeaa8.chunk.css.map": "/pixori-plus.git/static/css/main.a4cfeaa8.chunk.css.map",
+    "static/js/2.161a8b10.chunk.js.LICENSE.txt": "/pixori-plus.git/static/js/2.161a8b10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a5a658b.js",
+    "static/js/2.161a8b10.chunk.js",
+    "static/css/main.a4cfeaa8.chunk.css",
+    "static/js/main.8ce2944b.chunk.js"
+  ]
+}
